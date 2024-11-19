@@ -1,26 +1,15 @@
-# Gradle
-.gradle/
-local.properties
-
-# Android Studio
-.idea/
-.idea/caches/
-.idea/libraries/
-.idea/modules.xml
-.idea/workspace.xml
-.idea/navEditor.xml
-.idea/assetWizardSettings.xml
-
-# Build output
-/build/
-captures/
-.externalNativeBuild/
-.cxx/
-
-# macOS specific
-.DS_Store
-
-# Optional (depending on your project)
 *.iml
-*.log
-*.apk
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
